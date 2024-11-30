@@ -21,7 +21,8 @@
 ## Walkthrough of the App
 A video or GIF walkthrough of the app showcasing its features.
 
-![Walkthrough](media/demo.gif)
+![Walkthrough](Kapture%202024-11-30%20at%2018.00.09.gif)
+
 
 > Note: Replace `media/demo.gif` with the actual path to your uploaded GIF/video.
 
